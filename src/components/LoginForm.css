@@ -1,0 +1,22 @@
+h2{
+  color: blue;
+}
+
+.form-input{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 230px;
+  align-self: center;
+  background-color: #5e85fb;
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+
+.error-msg{
+  color: red;
+}
